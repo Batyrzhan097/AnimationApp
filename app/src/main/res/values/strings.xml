@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AnimationApp</string>
+    <string name="welcome_to_app">Welcome to App!</string>
+</resources>
